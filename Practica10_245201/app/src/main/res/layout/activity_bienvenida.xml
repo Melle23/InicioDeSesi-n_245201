@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="@color/babyblue2"
+    tools:context=".Bienvenida">
+
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="Bienveido/a"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        />
+    
+    <TextView
+        android:id="@+id/evCorreo"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="Correo electronico:"
+        android:textSize="20dp"
+        />
+
+    <TextView
+        android:id="@+id/evProveedor"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="Proveedor:"
+        android:textSize="20dp"
+        />
+
+
+    <Button
+        android:id="@+id/btnSalir"
+        android:layout_marginTop="100dp"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:text="Salir"
+        android:textSize="20dp"
+        android:textStyle="normal"
+        android:backgroundTint="@color/blue"
+        android:layout_gravity="center"/>
+</LinearLayout>

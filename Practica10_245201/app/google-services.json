@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862859373666",
+    "project_id": "astute-arcanum-456305-v7",
+    "storage_bucket": "astute-arcanum-456305-v7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862859373666:android:fcec9a52962cb93052f53b",
+        "android_client_info": {
+          "package_name": "molina.esmeralda.practica10_245201"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862859373666-jffj9cr2lf6b9nsot3l883tcqqvucirr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "molina.esmeralda.practica10_245201",
+            "certificate_hash": "8e5c18f9b747b0d8ba57fa4078d8c53fd2831b5a"
+          }
+        },
+        {
+          "client_id": "862859373666-unhqda42he9g4brl6d5fuuteo38tkpn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCOtrpg0p4Y4rSb1yLmm0da9QhGGWsuYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862859373666-unhqda42he9g4brl6d5fuuteo38tkpn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
